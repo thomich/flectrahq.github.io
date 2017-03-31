@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DE FlectraHQ
-permalink: /de-flectra/
+title: DE
+permalink: /de/
 tags: about
 ---
 
