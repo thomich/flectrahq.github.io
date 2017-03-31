@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Pixyll
-permalink: /about/
+title: DE FlectraHQ
+permalink: /de-flectra/
 tags: about
 ---
 
