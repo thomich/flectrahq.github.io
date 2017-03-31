@@ -6,5 +6,3 @@ tags: about
 ---
 
 **Was ist FlectraHQ?**
-
-FlectraHQ ist eine Kopie von
